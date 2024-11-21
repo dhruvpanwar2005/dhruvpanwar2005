@@ -1,3 +1,2 @@
 # Dhruv
-This is my first repository <br>
-Dhruv D. Panwar
+This is my first repository <br> Dhruv D. Panwar
