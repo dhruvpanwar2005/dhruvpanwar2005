@@ -7,7 +7,7 @@
 
 - 📖 I’m currently study in [Parul University](https://www.paruluniversity.ac.in)
 
-- 🌱 I’m currently learning<br> &rarr; **Design of Data Structures (DDS),<br>&rarr; Database Management System &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(DBMS),<br>&rarr; Object Oriented Programming &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;with Java (OOPJ)<br>&rarr; Computer Organization and &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microprocessor (COMA)**
+- 🌱 I’m currently learning<br> &rarr; **Design of Data Structures (DDS),<br>&rarr; Database Management System (DBMS),<br>&rarr; Object Oriented Programming with Java (OOPJ)<br>&rarr; Computer Organization and Microprocessor (COMA)**
 
 - 👨‍💻 My current running course **B.Tech (AI & Data Science)**
 
