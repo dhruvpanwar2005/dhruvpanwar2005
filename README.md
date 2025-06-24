@@ -28,3 +28,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dhruvpanwar2005&show_icons=true&locale=en" alt="dhruvpanwar2005" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpanwar2005&show_icons=true&locale=en&layout=compact" alt="dhruvpanwar2005" /></p>
+
+<img src="https://raw.githubusercontent.com/Dhruvpanwar2005/Dhruvpanwar2005/output/snake.svg" alt="Snake animation" />
+
+###
