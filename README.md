@@ -29,4 +29,4 @@
 
 ![dhruvpanwar2005's Streak](https://github-readme-streak-stats.herokuapp.com/?user=dhruvpanwar2005&theme=vision-friendly-dark&hide_border=true)
 
-<p>&nbsp;<img height="180px" align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=dhruvpanwar2005&show_icons=true&locale=en&layout=compact" alt="dhruvpanwar2005" /></p>
+![dhruvpanwar2005's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dhruvpanwar2005&theme=vision-friendly-dark&show_icons=true&hide_border=true&layout=compact)
